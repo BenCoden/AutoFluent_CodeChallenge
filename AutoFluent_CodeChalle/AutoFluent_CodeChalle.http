@@ -1,0 +1,6 @@
+@AutoFluent_CodeChalle_HostAddress = http://localhost:5163
+
+GET {{AutoFluent_CodeChalle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
